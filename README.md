@@ -1,0 +1,2 @@
+# ApplaudoStudio
+Scala project 
